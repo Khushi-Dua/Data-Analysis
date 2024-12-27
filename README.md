@@ -126,8 +126,3 @@ This project is licensed under the [MIT License](LICENSE).
 Happy Analyzing! 🙌🔞
 
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-- **Email**: your.email@example.com
-
-Happy Analyzing! 🙌🔞
